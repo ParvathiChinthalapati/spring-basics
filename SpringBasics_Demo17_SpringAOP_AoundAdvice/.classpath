@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/aspectjweaver-1.9.19.jar"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/spring-beans-6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/spring-context-6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/spring-core-6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/spring-expression-6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/parvathichinthalapati/Desktop/Technical_Stuff/Spring Jars/spring-jcl-6.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
